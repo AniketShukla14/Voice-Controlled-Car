@@ -1,5 +1,5 @@
 # Voice-Controlled-Car
-<li>A voice controlled car was created using arduino codes which can take command from the developer to move </li>
+<li>A voice controlled car was created using arduino codes which can take command from the developer to move.</li>
 <li>I created this project in my first year to take part in a exhibition context where I won the 2nd prize.</li>
 <br>
   <br>
