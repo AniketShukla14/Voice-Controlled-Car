@@ -35,7 +35,7 @@
   </ol>
   
 ## Objective
-<li>To learn arduino codes and to create a voice controlled carfor the main project "Alpha Camp".</li>
+<li>To learn arduino codes and to create a voice controlled car for the main project "Alpha Camp".</li>
 <p align="right">(<a href="#Voice-Controlled-Car">back to top</a>)</p>
 
 
