@@ -26,7 +26,6 @@
       <li>Arduino </li>
        <li>Servo motor</li>
       <li> Bluetooth module </li>
-       <li>Cable chord</li>
       <li>Jumper Wires</li>
       <li>Breadboard</li>
      <!-- <li><a href="https://www.javascript.com/">JavaScript</a></li> -->
