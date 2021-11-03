@@ -43,7 +43,7 @@
 It's a voice controlled bot which takes the command and do accordingly.
 <br>
 <br>
-To see the the working You can Click the link below
+To see the the working by clicking on the link below
 <br>
 https://youtu.be/AEMMlo8OcZE
 
